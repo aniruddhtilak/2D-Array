@@ -33,6 +33,6 @@ int main(){
         }
     }}
     else{
-        cout<<"Invalid Order!! Matrix Can't be multiplied.";
+        cout<<"Invalid Order!! Matrix Can't be added.";
     }
 }
