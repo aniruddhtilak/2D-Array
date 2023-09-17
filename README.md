@@ -1,6 +1,6 @@
 # 2D-Array
 This repository contains some basics codes related to 1-D and 2-D Arrays.                                                                                                                                          
-A.Element Position
+A. Element Position
 The first program takes 10 inputs from user in form of integer and displays it as well. 
 It further asks the user for a number to be searched, if the number is present in the array , it is displayed along withit's position
 If number is not found, an error message is displayed.
@@ -27,7 +27,7 @@ Algorithm -
 
 
                                                                                                                                                                                                                                                                                                                                     
-B.Grading System                                                                                                                                                  
+B. Grading System                                                                                                                                                  
 The second program reads marks of 5 subjects as input in an array.                                                                                                
 It further compares the average of the inputs with the set conditions and produces output accordingly.                                                            
 Algorithm-                                                                                                                                                       
@@ -50,7 +50,7 @@ Algorithm-
 7. End of the program.                                                                                                                                            
                                                                                                                                                                
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-C.Matrix Addition                                                                                                                                                 
+C. Matrix Addition                                                                                                                                                 
 The Third program reads inputs of 2 matrices(2-D arrays) and if the order of the two matrices matche then it displays their sum.                                  
 Algorithm-                                                                                                                                                        
 1. Create integer variables 'i', 'j', 'rows_matrix1', 'column_matrix1', 'rows_matrix2', 'column_matrix2'.
@@ -83,7 +83,7 @@ Algorithm-
                                                                                                                                                                   
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
                                                                                                                                                                   
-D.Smallest_Largest number                                                                                                                                         
+D. Smallest_Largest number                                                                                                                                         
 The fourth program reads 10 integer inputs and displays the largest and the smallest input.
 Algorithm-
 1. Create an integer array 'arr1' of size 10.
