@@ -31,33 +31,25 @@ Algorithm -
 The second program reads marks of 5 subjects as input in an array.                                                                                                
 It further compares the average of the inputs with the set conditions and produces output accordingly.                                                            
 Algorithm-                                                                                                                                                       
-1.Initialize an integer variable 'var' with value as 0,create an integer 'var1' and an inteher array 'marks' with 5 as length.                                    
-2.Initialize a for loop with 'i' ranging from 0 to 4 to input 5 numbers into 'marks':                                                                           
-   a.Display "Enter marks of subject", value of i+1.                                                                                                              
-   b.Read and store the input.                                                                                                                                 
-   c.Increment the value of 'var1' by the input.                                                                                                               
-   d. Increment 'i' by 1.                                                                                                                                       
-3.Calculate 'var' by dividing 'var1' by 5.                                                                                                                        
-4.Check for condition-                                                                                                                                           
-  a.If 'var' is greater than equal to 90, then:                                                                                                                  
-     Display "O".                                                                                                                                                
-  b.Else if 'var' is greater than equal to 80, then:                                                                                                            
-     Display "A+".                                                                                                                                                
-  c.Else if 'var' is greater than equal to 70, then:                                                                                                              
-     Display "A".                                                                                                                                                
-  d.Else if 'var' is greater than equal to 60, then:                                                                                                              
-     Display "B+".                                                                                                                                                
-  e.Else if 'var' is greater than equal to 50, then:                                                                                                              
-     Display "B".                                                                                                                                                
-  f.Else if 'var' is greater than equal to 40, then:                                                                                                              
-     Display "C".                                                                                                                                                
-  g.Else:                                                                                                                                                         
-     Display "Fail".                                                                                                                                              
-5.End of the program.                                                                                                                                             
+1. Create an integer variable 'var' and initialize it to 0. This variable will store the average marks.
+2. Create an integer array 'marks' of size 5 to store marks in 5 subjects.
+3. Create an integer variable 'var1' and initialize it to 0. This variable will store the sum of marks.
+4. Use a loop to iterate 5 times, once for each subject:
+   a. Display "Enter marks of subject " followed by the current subject index + 1 and "- ".
+   b. Read and store the entered marks in 'marks[i]'.
+   c. Update 'var1' by adding 'marks[i]' to it.
+5. Calculate the average by dividing 'var1' by 5 and store it in 'var'.
+6. Use conditional statements (if-else if) to assign a grade based on the value of 'var':
+   a. If 'var' is greater than or equal to 90, display "O".
+   b. Else if 'var' is greater than 80, display "A+".
+   c. Else if 'var' is greater than or equal to 70, display "A".
+   d. Else if 'var' is greater than or equal to 60, display "B+".
+   e. Else if 'var' is greater than or equal to 50, display "B".
+   f. Else if 'var' is greater than or equal to 40, display "C".
+   g. Else, display "Fail".
+7. End of the program.                                                                                                                                            
                                                                                                                                                                
-                                                                                                                                                                  
-                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 3.Matrix Addition                                                                                                                                                 
 The Third program reads inputs of 2 matrices(2-D arrays) and if the order of the two matrices matche then it displays their sum.                                  
 Algorithm-                                                                                                                                                        
