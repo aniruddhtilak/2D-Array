@@ -25,7 +25,8 @@ Algorithm -
    c. Increment 'i' by 1.
 10. End of the program.
 
-
+\n
+\n
 
 
 2.Grading System                                                                                                                                                  
