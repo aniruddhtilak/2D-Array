@@ -25,10 +25,8 @@ Algorithm -
    c. Increment 'i' by 1.
 10. End of the program.
 
-\n
-\n
 
-
+                                                                                                                                                                                                                                                                                                                                    
 2.Grading System                                                                                                                                                  
 The second program reads marks of 5 subjects as input in an array.                                                                                                
 It further compares the average of the inputs with the set conditions and produces output accordingly.                                                            
@@ -59,7 +57,7 @@ Algorithm-
                                                                                                                                                                
                                                                                                                                                                   
                                                                                                                                                                   
-                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 3.Matrix Addition                                                                                                                                                 
 The Third program reads inputs of 2 matrices(2-D arrays) and if the order of the two matrices matche then it displays their sum.                                  
 Algorithm-                                                                                                                                                        
@@ -91,7 +89,7 @@ Algorithm-
 17. End of the program.
                                                                                                                                                                   
                                                                                                                                                                   
-                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
                                                                                                                                                                   
 4.Smallest_Largest number                                                                                                                                         
 The fourth program reads 10 integer inputs and displays the largest and the smallest input.
